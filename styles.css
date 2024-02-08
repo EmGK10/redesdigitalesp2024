@@ -1,0 +1,11 @@
+.titulo{
+    color: red;
+    text-align: center;
+    background-color: yellow;
+
+}
+.texto{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15pt;
+    text-align: justify;
+}
